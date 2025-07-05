@@ -1,1 +1,5 @@
-echo -n N3HNxlWdk4MYsQ12HJH7Ga9e0Kz1XGBj | ssh-keygen -Y sign -n lsposed -f /data/user/0/bin.mt.plus/files/term/home/.ssh/id_ed25519
+"settings": {
+    "isRestoreSsaids": true,
+    "language": "zh_CN",
+    "passwordStrategy": 1,
+    "themeModeId": 3
